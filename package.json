@@ -2,7 +2,7 @@
   "name": "online_plant_shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruhanbeukes.github.io/online_plant_shop"
+  "homepage": "https://ruhanbeukes.github.io/online_plant_shop",
 
   "dependencies": {
     "cra-template": "1.2.0",
