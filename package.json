@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://ruhanbeukes.github.io/online_plant_shop",
-
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -38,4 +38,3 @@
     "gh-pages": "^6.3.0"
   }
 }
-
