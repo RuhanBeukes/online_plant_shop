@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import { FaShoppingCart } from "react-icons/fa";
 import "./styles.css";
+import './App.css';
 
 // Sample plant data
 const plants = [
